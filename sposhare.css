@@ -1,0 +1,92 @@
+.flex {
+   display: flex;
+}
+
+.flex-c {
+   flex-direction: column;
+}
+
+.flex-r {
+   flex-direction: row;
+}
+
+.center {
+   align-items: center;
+}
+
+.jc {
+   justify-content: center;
+}
+
+.jb {
+   justify-content: space-between;
+}
+
+.jfc {
+   justify-content: flex-start;
+}
+
+.pd {
+   gap: 0.7rem;
+}
+
+.ml {
+   margin-left: 18%;
+}
+
+.mt {
+   margin-top: 15%;
+}
+
+.ol {
+   overflow: hidden;
+}
+
+.if {
+   /* display: inline-flex;  */
+}
+
+.hshow {
+   /* height: 180px; */
+}
+
+.wshow {
+   width: 160px;
+}
+
+.fs {
+   flex-shrink: 0;
+}
+
+.br {
+   border-radius: 10px;
+}
+
+.ovx {
+   /* overflow-x: scroll; */
+   -ms-overflow-style: none;
+   scrollbar-width: none;
+
+}
+
+.ws {
+   /* white-space: nowrap; */
+}
+
+.ovy {
+   overflow: auto;
+
+}
+
+.mh {
+   height: 550px absolute;
+}
+
+.overflow-x-auto {
+   overflow-x: auto;
+   -ms-overflow-style: none;
+   scrollbar-width: none;
+}
+.song{
+   height: 80px;
+}
